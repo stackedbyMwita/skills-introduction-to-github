@@ -1,23 +1,19 @@
-👋 Hey there, I'm Alex Mwita — aka Tingo
+👋 Hey there, I'm Alex Mwita
 
-🎯 Clinical Medicine Student | Healthtech Innovator | Creative Technologist
-
----
-
-🚀 About Me
+Clinical Medicine Student | Healthtech Innovator | Creative Technologist
 
 I'm a Kenyan-based medical student who thrives at the intersection of healthcare, design, and code.  
 Currently building the future of smart patient care, while designing digital experiences that heal, engage, and inspire.
 
-💡 Passionate about:
-- 🤖 HealthTech innovation
-- 🎨 UI/UX & Graphic Design (Lead @ **Peg Creations)
-- 🧠 Self-learning code
-- 📈 Trading & Financial Systems
-- 💻 Full-Stack Dev, Python, JS, HTML, CSS
+Passionate about:
+- HealthTech innovation
+- UI/UX & Graphic Design (Lead designer @ Peg Creations)
+- Self-learning code
+- Trading & Financial Systems
+- Full-Stack Dev, Python, JS, HTML, CSS
 
 
-🧰 Tech & Tools
+Tech & Tools
 Languages: Python | JavaScript | HTML | CSS | Bash  
 Design: Adobe Photoshop | Illustrator | Figma | Canva  
 Frontend: React | TailwindCSS | Bootstrap  
@@ -26,9 +22,9 @@ Other: Git | GitHub | ChatGPT | Linux
 
 
 
-📌 Ongoing Projects
+Ongoing Projects
 
-📈 What I'm Learning Now
+What I'm Learning Now
 
 Frontend Web Dev (React + Tailwind)
 
