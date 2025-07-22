@@ -1,4 +1,4 @@
-👋 Hey there, I'm Alex Mwita
+Hey, I'm Alex Mwita
 
 Clinical Medicine Student | Healthtech Innovator | Creative Technologist
 
@@ -31,29 +31,3 @@ Frontend Web Dev (React + Tailwind)
 Full-stack MVP deployment
 
 API integration & health data workflows
-
-
-🤝 Let's Collaborate
-
-I'm always open to exciting ideas in:
-
-🌍 HealthTech MVPs
-
-🧠 Medical education tools
-
-🧪 AI in diagnostics
-
-🖥️ Brand & Web Design Projects
-
-💸 Trading automation
-
-
-📫 Reach me:
-
-GitHub: @stackedbyMwita
-
-Email: iamalexmwita@gmail.com
-
-
-Design with empathy. Code with purpose. Heal with data
-
