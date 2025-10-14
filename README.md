@@ -1,4 +1,4 @@
-Hey, I'm Alex Mwita
+I'm Alex Mwita
 
 Clinical Medicine Student | Healthtech Innovator | Creative Technologist
 
